@@ -4,7 +4,12 @@ A python program to multiply, graph, and transform matricies. It can take input 
 
 How to run:
 Open terminal and navigate to the desired folder of storage.
+
 Clone the repository into desired folder with `git clone https://github.com/AndrewTShen/matrix-graphing-and-transformation`.
-Change the `matrix.txt` and `transformationMatrix.txt` contents to the desired matricies. If you'd like, you can also change the program itself to accept input from user input using the `matrix_io_input`.
+
+Change the `matrix.txt` and `transformationMatrix.txt` contents to the desired matricies. If you'd like, you can also change 
+the program itself to accept input from user input using the `matrix_io_input`.
+
 In the `matrix-graphing-and-transformation` folder, run `ipython matrix_graph_transform.py`.
+
 A screen should pop up with the original matrix and the new, transformed matrix graphed.
